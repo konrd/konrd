@@ -1,16 +1,21 @@
-### Hi there 👋
+JOHN IVER (31 years old) Frontend Engineer
 
-<!--
-**konrd/konrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+3 YEARS OF EXPERIENCE:
+  - JavaScript(ES6+) / JQuery
+  - ReactJS (Redux, Hooks)
+  - TypeScript
+  - Experience with Jest, Enzyme - Websockets
+  - ChartJS / HightCharts
+  - HTML5/CSS3, (SCSS, Bootstrap, Material UI, Ant Design) - Knowledge and experience in responsive design
+  - Version control using Git and GitHub
+  - Experience with React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<strong>3 YEARS OF EXPERIENCE:</strong>
+  - PHP, OOP, Design Patterns, MVC - Frameworks (Yii/Yii2) - REST API
+  - MySQL
+
+
+- Practical experience of using NodeJS / MongoDB
+- Ubuntu services installation and support (Nginx, MySQL, MongoDB)
