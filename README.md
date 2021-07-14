@@ -1,6 +1,3 @@
-JOHN IVER - Frontend Engineer
-
-
 3 YEARS OF EXPERIENCE:
   - JavaScript(ES6+) / JQuery
   - ReactJS (Redux, Hooks)
