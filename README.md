@@ -1,4 +1,4 @@
-3 YEARS OF EXPERIENCE:
+<strong>3 YEARS OF EXPERIENCE:</strong>
   - JavaScript(ES6+) / JQuery
   - ReactJS (Redux, Hooks)
   - TypeScript
