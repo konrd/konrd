@@ -1,4 +1,4 @@
-JOHN IVER (31 years old) Frontend Engineer
+JOHN IVER - Frontend Engineer
 
 
 3 YEARS OF EXPERIENCE:
