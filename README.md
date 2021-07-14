@@ -13,6 +13,7 @@
   - PHP, OOP, Design Patterns, MVC - Frameworks (Yii/Yii2) - REST API
   - MySQL
 
+<br>
 
 - Practical experience of using NodeJS / MongoDB
 - Ubuntu services installation and support (Nginx, MySQL, MongoDB)
