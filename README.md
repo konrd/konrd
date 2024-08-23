@@ -1,23 +1,23 @@
 <strong>4+ YEARS OF EXPERIENCE:</strong>
-  - JavaScript(ES6+) / JQuery
-  - ReactJS (Redux/Toolkit, React Query, Hooks)
-  - NextJS
-  - TypeScript
-  - Experience with Jest, Enzyme
-  - Websockets
-  - ChartJS / HightCharts
-  - HTML5/CSS3, (SCSS, Bootstrap, Material UI, Ant Design)
-  - Knowledge and experience in responsive design
-  - Version control using Git and GitHub
-  - Experience with React Native
+  - JavaScript(ES6+) / JQuery<br>
+  - ReactJS (Redux/Toolkit, React Query, Hooks)<br>
+  - NextJS<br>
+  - TypeScript<br>
+  - Experience with Jest, Enzyme<br>
+  - Websockets<br>
+  - ChartJS / HightCharts<br>
+  - HTML5/CSS3, (SCSS, Bootstrap, Material UI, Ant Design)<br>
+  - Knowledge and experience in responsive design<br>
+  - Version control using Git and GitHub<br>
+  - Experience with React Native<br><br>
 
 
 <strong>3 YEARS OF EXPERIENCE:</strong>
-  - PHP, OOP, Design Patterns, MVC - Frameworks (Yii/Yii2)
-  - REST API
-  - MySQL
+  - PHP, OOP, Design Patterns, MVC - Frameworks (Yii/Yii2)<br>
+  - REST API<br>
+  - MySQL<br>
 
 <br>
 
-- Practical experience of using NodeJS / MongoDB
+- Practical experience of using NodeJS / MongoDB<br>
 - Ubuntu services installation and support (Nginx, MySQL, MongoDB)
